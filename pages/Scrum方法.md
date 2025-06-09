@@ -1,0 +1,26 @@
+- ![image.png](../assets/image_1748393382726_0.png)
+- # 3355
+	- ## 三个角色
+		- ![image.png](../assets/image_1748393524286_0.png)
+		- ### [[产品负责人]] Product Owner
+		- ### [[Scrum教练]] Scrum Master
+		- ### [[开发团队]] Dev Team
+	- ## 三个工件
+		- ![image.png](../assets/image_1748393538967_0.png){:height 227, :width 440}
+		- ### [[产品待办事项列表]] Product Backlog
+		- ### [[冲刺待办事项列表]] Sprint Backlog
+		- ### [[产品增量]] Product Increment
+	- ## 五个会议（仪式）
+		- > 敏捷的五个会议符合[[PDCA循环]]
+		- ![image.png](../assets/image_1748393567245_0.png)
+		- 冲刺
+			- [[冲刺计划会]]
+				- > 选故事、领故事、拆故事
+			- [[每日站会]]
+				- > 15分钟、轮流开、不解决问题
+			- 冲刺评审会
+				- > 演示、评审、反馈
+			- 冲刺回顾会
+				- > 总结、改进、计划
+	- 五种价值观
+		- ![image.png](../assets/image_1748393557783_0.png)

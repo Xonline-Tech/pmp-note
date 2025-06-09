@@ -1,0 +1,631 @@
+{:blocks (
+{:block/created-at 1747741568670
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "可交付成果物"
+:scaleLevel "md"
+:fill "pink"
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [320 245.34373474121094]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e7e6c260-356e-11f0-9228-e10708fcc324"
+:noFill false
+:point [252 279.99946210588723]
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:collapsedHeight 245.34375
+:nonce 1747741090479}}
+:block/updated-at 1747741568670} 
+{:block/created-at 1747741647325
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "blue"
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "指导与管理项目工作"
+:scaleLevel "md"
+:fill "blue"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0a4dacb0-356f-11f0-9228-e10708fcc324"
+:noFill false
+:point [208 208]
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:collapsedHeight 958.15625
+:nonce 1747741149577}}
+:block/updated-at 1747741647325} 
+{:block/created-at 1747741568670
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "控制质量"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "303b4cc0-356f-11f0-9228-e10708fcc324"
+:noFill false
+:point [212 560.0026589529854]
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:collapsedHeight 129
+:nonce 1747741211990}}
+:block/updated-at 1747741568670} 
+{:block/created-at 1747741568670
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "核实的可交付成果"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 113.00003051757812]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "38ecf260-356f-11f0-9228-e10708fcc324"
+:noFill false
+:point [212 640.0021210588726]
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:collapsedHeight 0
+:nonce 1747741226316}}
+:block/updated-at 1747741568670} 
+{:block/created-at 1747741568670
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "确认范围"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3dc77850-356f-11f0-9228-e10708fcc324"
+:noFill false
+:point [212 800.001613682338]
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:collapsedHeight 767.5234375
+:nonce 1747741234545}}
+:block/updated-at 1747741568670} 
+{:block/content "验收的可交付成果"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"}
+:block/parent 
+{:block/uuid #uuid "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"}
+:block/properties 
+{}
+:block/uuid #uuid "682c6a42-9457-4628-b02b-35d443233bf2"} 
+{:block/created-at 1747741655433
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "结束项目或阶段"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "591cd870-356f-11f0-9228-e10708fcc324"
+:noFill false
+:point [224 1008]
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:collapsedHeight 312.32029797552576
+:nonce 1747741280719}}
+:block/updated-at 1747741655433} 
+{:block/created-at 1747741568670
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "最终的可交付成果"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 93]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "60090050-356f-11f0-9228-e10708fcc324"
+:noFill false
+:point [212 1087.9999999999998]
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:collapsedHeight 0
+:nonce 1747741292092}}
+:block/updated-at 1747741568670} 
+{:block/created-at 1747741568670
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "验收的可交付成果"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 93]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6af5c8e0-356f-11f0-9228-e10708fcc324"
+:noFill false
+:point [212 864.0010757882252]
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:collapsedHeight 0
+:nonce 1747741310467}}
+:block/updated-at 1747741568670} 
+{:block/created-at 1747741647316
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d094cca2-356f-11f0-9228-e10708fcc324"
+:fontWeight 400
+:noFill true
+:point [406.68 249]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.74 0]
+:bindingId "d094cca0-356f-11f0-9228-e10708fcc324"}
+:end 
+{:id "end"
+:canBind true
+:point [0 27]
+:bindingId "2c49f8e1-3570-11f0-9228-e10708fcc324"}}
+:decorations 
+{:end "arrow"}
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:nonce 1747741481224
+:italic false}}
+:block/updated-at 1747741647316} 
+{:block/created-at 1747741573205
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "db28ede2-356f-11f0-9228-e10708fcc324"
+:fontWeight 400
+:noFill true
+:point [412 526.34]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "db28ede0-356f-11f0-9228-e10708fcc324"}
+:end 
+{:id "end"
+:canBind true
+:point [0 29.66]
+:bindingId "06c9e7b1-3570-11f0-9228-e10708fcc324"}}
+:decorations 
+{:end "arrow"}
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:nonce 1747741498513
+:italic false}}
+:block/updated-at 1747741573205} 
+{:block/created-at 1747741576854
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "df409902-356f-11f0-9228-e10708fcc324"
+:fontWeight 400
+:noFill true
+:point [412.72 601]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "df409900-356f-11f0-9228-e10708fcc324"}
+:end 
+{:id "end"
+:canBind true
+:point [1.2 35]
+:bindingId "09072d81-3570-11f0-9228-e10708fcc324"}}
+:decorations 
+{:end "arrow"}
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:nonce 1747741505286
+:italic false}}
+:block/updated-at 1747741576854} 
+{:block/created-at 1747741568670
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e155bd62-356f-11f0-9228-e10708fcc324"
+:fontWeight 400
+:noFill true
+:point [384.65 755.5018826293943]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [11.54 0]
+:bindingId "e155bd60-356f-11f0-9228-e10708fcc324"}
+:end 
+{:id "end"
+:canBind true
+:point [0 42]
+:bindingId "e155bd61-356f-11f0-9228-e10708fcc324"}}
+:decorations 
+{:end "arrow"}
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:nonce 1747741508740
+:italic false}}
+:block/updated-at 1747741568670} 
+{:block/created-at 1747741568670
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e3f128c2-356f-11f0-9228-e10708fcc324"
+:fontWeight 400
+:noFill true
+:point [412.76 842.5013447352816]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "e3f128c0-356f-11f0-9228-e10708fcc324"}
+:end 
+{:id "end"
+:canBind true
+:point [0.69 19]
+:bindingId "e3f128c1-356f-11f0-9228-e10708fcc324"}}
+:decorations 
+{:end "arrow"}
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:nonce 1747741513092
+:italic false}}
+:block/updated-at 1747741568670} 
+{:block/created-at 1747741655433
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e66fbd50-356f-11f0-9228-e10708fcc324"
+:fontWeight 400
+:noFill true
+:point [406.21 958]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [2.85 0]
+:bindingId "e66f9640-356f-11f0-9228-e10708fcc324"}
+:end 
+{:id "end"
+:canBind true
+:point [0 46]
+:bindingId "e66f9641-356f-11f0-9228-e10708fcc324"}}
+:decorations 
+{:end "arrow"}
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:nonce 1747741517270
+:italic false}}
+:block/updated-at 1747741655433} 
+{:block/created-at 1747741655425
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e872b942-356f-11f0-9228-e10708fcc324"
+:fontWeight 400
+:noFill true
+:point [420.2 1049]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [2.37 0]
+:bindingId "e872b940-356f-11f0-9228-e10708fcc324"}
+:end 
+{:id "end"
+:canBind true
+:point [0 35]
+:bindingId "e872b941-356f-11f0-9228-e10708fcc324"}}
+:decorations 
+{:end "arrow"}
+:parentId "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:nonce 1747741520691
+:italic false}}
+:block/updated-at 1747741655425})
+:pages (
+{:block/uuid #uuid "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "682c6981-e491-4dc7-a1b1-b4447ab5c1e3"
+:name "成果物的阶段"
+:bindings 
+{:df409901-356f-11f0-9228-e10708fcc324 
+{:id "df409901-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "df409902-356f-11f0-9228-e10708fcc324"
+:toId "38ecf260-356f-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.55 0.58]
+:distance 4}
+:e155bd61-356f-11f0-9228-e10708fcc324 
+{:id "e155bd61-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "e155bd62-356f-11f0-9228-e10708fcc324"
+:toId "3dc77850-356f-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.41 0.71]
+:distance 4}
+:df409900-356f-11f0-9228-e10708fcc324 
+{:id "df409900-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "df409902-356f-11f0-9228-e10708fcc324"
+:toId "303b4cc0-356f-11f0-9228-e10708fcc324"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e872b940-356f-11f0-9228-e10708fcc324 
+{:id "e872b940-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "e872b942-356f-11f0-9228-e10708fcc324"
+:toId "591cd870-356f-11f0-9228-e10708fcc324"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:06c9e7b1-3570-11f0-9228-e10708fcc324 
+{:id "06c9e7b1-3570-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "db28ede2-356f-11f0-9228-e10708fcc324"
+:toId "303b4cc0-356f-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.5 0.61]
+:distance 4}
+:e66f9641-356f-11f0-9228-e10708fcc324 
+{:id "e66f9641-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "e66fbd50-356f-11f0-9228-e10708fcc324"
+:toId "591cd870-356f-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.45 0.88]
+:distance 4}
+:d094cca1-356f-11f0-9228-e10708fcc324 
+{:id "d094cca1-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "d094cca2-356f-11f0-9228-e10708fcc324"
+:toId "e7e6c260-356e-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.59 0.56]
+:distance 4}
+:db28ede1-356f-11f0-9228-e10708fcc324 
+{:id "db28ede1-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "db28ede2-356f-11f0-9228-e10708fcc324"
+:toId "303b4cc0-356f-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.34 0.63]
+:distance 4}
+:db28ede0-356f-11f0-9228-e10708fcc324 
+{:id "db28ede0-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "db28ede2-356f-11f0-9228-e10708fcc324"
+:toId "e7e6c260-356e-11f0-9228-e10708fcc324"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e155bd60-356f-11f0-9228-e10708fcc324 
+{:id "e155bd60-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "e155bd62-356f-11f0-9228-e10708fcc324"
+:toId "38ecf260-356f-11f0-9228-e10708fcc324"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e872b941-356f-11f0-9228-e10708fcc324 
+{:id "e872b941-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "e872b942-356f-11f0-9228-e10708fcc324"
+:toId "60090050-356f-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.51 0.6]
+:distance 4}
+:d094cca0-356f-11f0-9228-e10708fcc324 
+{:id "d094cca0-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "d094cca2-356f-11f0-9228-e10708fcc324"
+:toId "0a4dacb0-356f-11f0-9228-e10708fcc324"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2c49f8e1-3570-11f0-9228-e10708fcc324 
+{:id "2c49f8e1-3570-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "d094cca2-356f-11f0-9228-e10708fcc324"
+:toId "e7e6c260-356e-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.47 0.65]
+:distance 4}
+:09072d81-3570-11f0-9228-e10708fcc324 
+{:id "09072d81-3570-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "df409902-356f-11f0-9228-e10708fcc324"
+:toId "38ecf260-356f-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.51 0.52]
+:distance 4}
+:e3f128c0-356f-11f0-9228-e10708fcc324 
+{:id "e3f128c0-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "e3f128c2-356f-11f0-9228-e10708fcc324"
+:toId "3dc77850-356f-11f0-9228-e10708fcc324"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e66f9640-356f-11f0-9228-e10708fcc324 
+{:id "e66f9640-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "e66fbd50-356f-11f0-9228-e10708fcc324"
+:toId "6af5c8e0-356f-11f0-9228-e10708fcc324"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e3f128c1-356f-11f0-9228-e10708fcc324 
+{:id "e3f128c1-356f-11f0-9228-e10708fcc324"
+:type "line"
+:fromId "e3f128c2-356f-11f0-9228-e10708fcc324"
+:toId "6af5c8e0-356f-11f0-9228-e10708fcc324"
+:handleId "end"
+:point [0.51 0.72]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("e7e6c260-356e-11f0-9228-e10708fcc324" "0a4dacb0-356f-11f0-9228-e10708fcc324" "303b4cc0-356f-11f0-9228-e10708fcc324" "38ecf260-356f-11f0-9228-e10708fcc324" "3dc77850-356f-11f0-9228-e10708fcc324" "591cd870-356f-11f0-9228-e10708fcc324" "60090050-356f-11f0-9228-e10708fcc324" "6af5c8e0-356f-11f0-9228-e10708fcc324" "d094cca2-356f-11f0-9228-e10708fcc324" "db28ede2-356f-11f0-9228-e10708fcc324" "df409902-356f-11f0-9228-e10708fcc324" "e155bd62-356f-11f0-9228-e10708fcc324" "e3f128c2-356f-11f0-9228-e10708fcc324" "e66fbd50-356f-11f0-9228-e10708fcc324" "e872b942-356f-11f0-9228-e10708fcc324")}}
+:block/updated-at 1747741655425
+:block/created-at 1747741057721
+:block/type "whiteboard"
+:block/name "成果物的阶段"
+:block/original-name "成果物的阶段"})}

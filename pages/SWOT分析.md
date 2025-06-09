@@ -1,0 +1,5 @@
+- ![image.png](../assets/image_1747895204422_0.png)
+- S 优势
+- W 劣势
+- O 机会
+- T 威胁
