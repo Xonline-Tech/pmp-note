@@ -293,7 +293,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["未分类试题库" "词汇混淆表" "过程组关系"]
+ :favorites ["参与贡献" "开始" "未分类试题库" "词汇混淆表" "过程组关系"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -417,10 +417,10 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :ui/show-brackets? false
- :default-home {:page "contents"}
+ :default-home {:page "开始"}
  :graph/forcesettings {:link-dist 150
  :charge-strength -400
  :charge-range 1100}
- :graph/settings {:excluded-pages? true
+ :graph/settings {:excluded-pages? false
  :orphan-pages? true
- :builtin-pages? true}}
+ :builtin-pages? false}}

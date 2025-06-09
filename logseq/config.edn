@@ -293,7 +293,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["开始" "未分类试题库" "词汇混淆表" "过程组关系"]
+ :favorites ["开始" "未分类试题库" "词汇混淆表" "过程组关系" "参与贡献"]
 
  ;; Set flashcards interval.
  ;; Expected value:
