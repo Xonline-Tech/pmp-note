@@ -1,22 +1,33 @@
+name: Publish
+
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # 每 6 小时触发
+  push:
+    branches: [ master ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
-env:
-  TZ: 'Asia/Shanghai'
-
-permissions:
-  contents: write
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
-    name: Publish Logseq graph
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: logseq/publish-spa@v0.3.0
-      - name: Add a nojekyll file # to make sure asset paths are correctly identified
-        run: touch $GITHUB_WORKSPACE/www/.nojekyll
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+      - uses: actions/checkout@v3
+
+      - name: Logseq Publish
+        uses: logseq/publish-spa@main
         with:
+          output-directory: www
+          accent-color: indigo
+
+      - name: Add .nojekyll file
+        run: touch www/.nojekyll
+
+      - name: Deploy to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        with:
+          branch: gh-pages
           folder: www
+          clean: true
+          clean-exclude: |
+            CNAME
+            .nojekyll
