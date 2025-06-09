@@ -417,7 +417,7 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :ui/show-brackets? false
- :default-home {:page "contents"}
+ :default-home {:page "开始"}
  :graph/forcesettings {:link-dist 150
  :charge-strength -400
  :charge-range 1100}
