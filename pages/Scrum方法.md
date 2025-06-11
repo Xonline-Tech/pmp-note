@@ -1,5 +1,9 @@
+alias:: Scrum
+
+-
 - ![image.png](../assets/image_1748393382726_0.png)
 - # 3355
+  id:: 684924e1-f7d3-4143-8408-31a7fcfa6b99
 	- ## 三个角色
 		- ![image.png](../assets/image_1748393524286_0.png)
 		- ### [[产品负责人]] Product Owner
